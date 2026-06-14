@@ -227,6 +227,15 @@ Since it performs binary classification, it always predicts either Cat or Dog.
 This demonstrates a limitation of binary classification models.
 
 ---
+## 📸 Sample Predictions
+
+### Cat Prediction
+
+![Cat Prediction](Cat%20prediction.png.jpeg)
+
+### Dog Prediction
+
+![Dog Prediction](Dog%20prediction.png.jpeg)
 
 # ⚠ Limitation
 
